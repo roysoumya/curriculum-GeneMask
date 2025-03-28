@@ -5,7 +5,7 @@ Official codebase for ECAI 2024 paper "Unlocking Efficiency: Adaptive Masking fo
 1. Please clone the codebase of DNABert or GeneMask and follow their pretraining instructions.
 2. Use the pretraining codes provided under the "/src/pretraining-adaptive" directory
 
-The pretrained model weights will be released upon acceptance.
+The pretrained model weights of CM-GEMS and some of the baseline models are available at this [Google Drive link](https://drive.google.com/drive/folders/1tduLypbSiY-hgctDhvNSdK5vvJDGAK9h?usp=sharing).
 
 ## Evaluation Datasets
 
